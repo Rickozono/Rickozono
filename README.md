@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Python and R**
 - 🧠🕵️‍♂️ I really like to solve riddles, puzzles and logic games.
 - 💻 I'm a tech enthusiast.
-- 📊🤔💭 I really like statistics and curious facts.
+- 📊🤔💭 I like statistics and curious facts.
 - ⚽⚾🏃‍♂️ I'm sport fan.
 - 🛫🗺️ I love to travel and visit new places.
 
