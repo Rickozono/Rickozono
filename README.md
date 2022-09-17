@@ -12,7 +12,7 @@
 - 🛫🗺️ I love to travel and visit new places.
 
 ## Languages & Tools:
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <img src="https://www.r-project.org/Rlogo.png" width="40" height="40" alt="R"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tableau_Software_Logo_Small.png/375px-Tableau_Software_Logo_Small.png" width="170" height="40" alt="Tableau">  </a> </p>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <img src="https://www.r-project.org/Rlogo.png" width="40" height="40" alt="R"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem-700x394.png" width="80" height="50" alt="Tableau">  </a> </p>
 
 ## Connections:
 <a href="https://www.linkedin.com/in/ricardo-andres-kozono/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="linkedin" width="40" height="40"></a>
