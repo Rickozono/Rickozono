@@ -4,11 +4,11 @@
 
 ## Here are some things about me:
 
-- 🌱⚛️ I enjoy learning constantly, I am currently taking a certification in Data Science.
-- 🧠🕵️‍♂️ I really like to solve riddles, puzzles and logic games.
+- 🌱⚛️ I enjoy learning constantly. I am currently taking a certification in Data Science.
+- 🧠🕵️‍♂️ I like to solve riddles, puzzles, and logic games.
 - 💻 I'm a tech enthusiast.
 - 📊🤔💭 I like statistics and curious facts.
-- ⚽⚾🏃‍♂️ I'm sport fan.
+- ⚽⚾🏃‍♂️ I'm a sport fan.
 - 🛫🗺️ I love to travel and visit new places.
 
 ## Languages & Tools:
