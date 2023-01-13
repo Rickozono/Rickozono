@@ -4,7 +4,7 @@
 
 ## Here are some things about me:
 
-- 🌱 I’m currently learning **Python and R**
+- 🌱⚛️ I enjoy learning constantly, I am currently taking a certification in Data Science.
 - 🧠🕵️‍♂️ I really like to solve riddles, puzzles and logic games.
 - 💻 I'm a tech enthusiast.
 - 📊🤔💭 I like statistics and curious facts.
